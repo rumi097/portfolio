@@ -7,7 +7,7 @@ function Home() {
     <section className="page-section hero">
       <img src={profileImage} alt="Ali Azgor Rumi" className="profile-photo" /> {/* Add this line */}
       <h1>Hi, I'm Ali Azgor Rumi</h1>
-      <p className="subtitle">A dedicated Comput</p>
+      <p className="subtitle">A dedicated Computer Science and Engineering student at Rajshahi University of Engineering and Technology.</p>
       <p className="hero-bio">
         Rejoice in solving algorithmic, data structure and mathematical problems. 
         Enthusiastically enjoy exploring new technologies, read different 
